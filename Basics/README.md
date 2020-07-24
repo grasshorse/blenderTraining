@@ -33,8 +33,8 @@
   - In edit mode you should only see the mesh
 3. Subdivide Mesh [TC 1:15](https://youtu.be/jmSgsaNSQ6s?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&t=75)
   - With Icing selected, in Edit Mode
-  - Alt-A selects all
-  - Right Click on Mesh -> Subdivide
+  - Type A selects all
+  - Right Click -> Subdivide
   - Will subdivide and bring up Subdivide options in lower left
   - Put Smoothness to 1.000
 4. Modify icing edge [TC 2:47](https://youtu.be/jmSgsaNSQ6s?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&t=167)
