@@ -1,10 +1,26 @@
 # Blender Beginner Tutorial [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
 ## [Part 7 - Level 1](https://www.youtube.com/watch?v=jmSgsaNSQ6s&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&index=7) Materials
-
+1. Skipping for now... rendering on mac sucks even with evee
 
 ## [Part 6 - Level 1](https://www.youtube.com/watch?v=jmSgsaNSQ6s&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&index=6) Rendering
-
+1. Click Rendered View or Type Z to bring up and select Rendered View Mode
+2. Move light around to see effects
+3. Add a plane under donut
+  - Shift A M P
+4. Parent Icing to Donut [TC 3:19](https://youtu.be/ZTxBrjN1ugA?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&t=192)
+  - Select Icing (Child)
+  - Shift Select Donut (Parent)
+  - Ctrl-P (Object Keep Transform)
+  - Now when you move Donut Icing will go with it
+5. Switch to Cycles Scene -> Renter Engine -> Cycles
+  - Edit -> Preferences -> System -> CUDA to see hardware on your system
+6. Move Camera
+  - Click on Camera View (or NumPad 0)
+  - Select Camera type G
+  - You can Lock Camera to View Type N -> View tab -> View Lock -> Lock Camera to View
+  - Ctrl-Alt NumPad 0 will snap camera to current view
+7. Did not save... rendering on mac sucks. I got through this but it was too hard to adjust to get anything viewable
 
 ## [Part 5 - Level 1](https://www.youtube.com/watch?v=jmSgsaNSQ6s&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&index=5) Sculpting
 1. Make a copy of object before modification [TC 1:21](https://youtu.be/6OTX3ZdYvEA?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&t=81)
@@ -24,6 +40,19 @@
   - Turn off X symetry (so bush is cursor only)
   - Left mouse to pull out
   - Cntrl Left Mouse to push
+3. Sculpt Icing [TC 8:31](https://youtu.be/6OTX3ZdYvEA?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&t=511)
+  - Select Icing Object
+  - Edit Object (Tab)
+  - Unhide (Alt-H) to show all mesh
+  - Apply Solidifer Modifier
+  - On Subd Modifier, increase Viewport to 3 -> Click Apply
+  - Goto Sculpt mode
+  - Type N (bring up Toolbar)
+  - View -> Clip Start: 0.001m
+  - Use Inflate brush to inflate the drips and various edges
+  - Use Grab brush to muck with the edges esp in center
+  - Use Draw brush with weak strength to draw on icing
+6. Save as blenderDonutL1P5.blend
 
 ## [Part 4 - Level 1](https://www.youtube.com/watch?v=jmSgsaNSQ6s&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&index=5) Make Icing drip
 1. Click on Icing Object in Object Mode
