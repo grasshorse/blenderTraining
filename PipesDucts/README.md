@@ -53,3 +53,4 @@ Technique for creating a line that can generate all the geometry for pipe and du
   
 ### Reference
 - [Blender 2.8. Modelling with Curves, how to make pipes](https://www.youtube.com/watch?v=F2SIbAxLftc)
+- [Edges to Curves on a face](https://youtu.be/8Iv6jfyY0aM)
