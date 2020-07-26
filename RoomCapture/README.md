@@ -50,6 +50,7 @@ Capture an existing room in Blender using reference photos
     - Select all the carpet Faces
     - Click on Carpet in the Materials and Click Assign ![BlenderMaterialsCarpetAssign](./BlenderMaterialsCarpetAssign-20200726at5.27.16PM.png)
     - At this point blender is working too much on my mac-mini need to continue on a GPU system
+    - Save as blenderRoomCaptureP7.blend
     
     
 ## References
