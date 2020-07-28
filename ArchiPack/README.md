@@ -19,7 +19,7 @@ Using Blender add-on Archipack to capture a house
     - Add new segment by increase the Parts count in Tool Panel or click the arrow in the view port
     - At the 7 segment, I clicked "Close" in the view port to add segment 8 and close the exterior wall objec
     - Save as blenderArchiPackCaptureP1.blend
-    - Photo ![BlenderArchiPackCaptureP1-ExteriorWalls](./BlenderArchiPackCaptureP1-ExteriorWalls.png)
+    - Screen Shot ![BlenderArchiPackCaptureP1-ExteriorWalls](./BlenderArchiPackCaptureP1-ExteriorWalls.png)
 6. Add Interior Walls
     - Object Mode: Select Wall Object
     - Name the Wall Object: ExteriorWall
@@ -31,7 +31,7 @@ Using Blender add-on Archipack to capture a house
     - Add BathHallWall
     - Add BedHallWall
     - Save as blblenderArchiPackCaptureP2.blend
-    - Photo ![BlenderArchiPackCaptureP2-InteriorWalls](./BlenderArchiPackCaptureP2-InteriorWalls.png)
+    - Screen Shot ![BlenderArchiPackCaptureP2-InteriorWalls](./BlenderArchiPackCaptureP2-InteriorWalls.png)
 7. Add Basement and Cinder Support Walls
     - Turn off view of all
     - Select ExteriorWall
@@ -47,11 +47,13 @@ Using Blender add-on Archipack to capture a house
     - G Shfit-Z move into place
     - Name: BasementCinderEastWall
     - Save as blenderArchiPackCaptureP3.blend
-    - Photo ![BlenderArchiPackCaptureP3-BasementWalls](./BlenderArchiPackCaptureP3-BasementWalls.png)
+    - Screen Shot ![BlenderArchiPackCaptureP3-BasementWalls](./BlenderArchiPackCaptureP3-BasementWalls.png)
     - Correct some missing walls
     - Save as blenderArchiPackCaptureP3a.blend
     - Attempt windows and doors projections
     - Save as blenderArchiPackCaptureP3b.blend
+    - Save as blenderArchiPackCaptureP3c.blend
+
 7. Add windows and doors.
     - ArchiPack uses a Reference Object to project the doors and windows.  The problem is with the current interior walls they are not relitive to the wall exterior wall ArchiPack reference object.  Basically they created a projector for each wall that did not source itself from the origninal wall reference object.  I think I'll end up having to redo the interior walls eventually.  The ArchiPack mod tools do best when they have a single Reference Pobject.
     - attempt to add toilet
