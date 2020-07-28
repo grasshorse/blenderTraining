@@ -30,7 +30,7 @@ Using Blender add-on Archipack to capture a house
     - Add KitchenEntryWall
     - Add BathHallWall
     - Add BedHallWall
-    - Save as blblenderArchiPackCaptureP2.blendender
+    - Save as blblenderArchiPackCaptureP2.blend
     - Photo ![BlenderArchiPackCaptureP2-InteriorWalls](./BlenderArchiPackCaptureP2-InteriorWalls.png)
 7. Add Basement and Cinder Support Walls
     - Turn off view of all
@@ -46,10 +46,15 @@ Using Blender add-on Archipack to capture a house
     - G Z -10 Enter
     - G Shfit-Z move into place
     - Name: BasementCinderEastWall
-    - Save as blenderArchiPackCaptureP3.blendender
+    - Save as blenderArchiPackCaptureP3.blend
     - Photo ![BlenderArchiPackCaptureP3-BasementWalls](./BlenderArchiPackCaptureP3-BasementWalls.png)
+    - Correct some missing walls
+    - Save as blenderArchiPackCaptureP3a.blend
+    - Attempt windows and doors projections
+    - Save as blenderArchiPackCaptureP3b.blend
 7. Add windows and doors.
-    - tbd
+    - ArchiPack uses a Reference Object to project the doors and windows.  The problem is with the current interior walls they are not relitive to the wall exterior wall ArchiPack reference object.  Basically they created a projector for each wall that did not source itself from the origninal wall reference object.  I think I'll end up having to redo the interior walls eventually.  The ArchiPack mod tools do best when they have a single Reference Pobject.
+    - attempt to add toilet
     
     
 ## Other
