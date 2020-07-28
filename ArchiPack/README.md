@@ -62,10 +62,17 @@ Using Blender add-on Archipack to capture a house
 ## Other
 - [blender-archipack.org ArchiPack](https://blender-archipack.org)
 - [Stephen Leger - ArchiPack Guy](https://www.youtube.com/c/StephenLeger/videos)
+    - [Quickstart Walls](https://www.youtube.com/watch?v=JV3S84oDN0Y)
+    - [Create internal walls](https://www.youtube.com/watch?v=Oy_ij1tOZgU)
+    - [Quickstart Windows](https://www.youtube.com/watch?v=lkzMX0o_Lmk)
 - [Floor Plan Part 1](https://www.youtube.com/watch?v=eiDVmoecTw4)
 - [Floor Plan Part 2](https://www.youtube.com/watch?v=YdpiSFWC4UQ)
+- [ArchiMesh](https://www.youtube.com/watch?v=XiDnW3AwISk)
 - [CAD for Blender](https://www.youtube.com/watch?v=tUU5D13nBJs)
 - [Snapping in Blender](https://www.youtube.com/watch?v=0p06F1LzTjQ) good for alignment of objects
 - [Cutters in Blender](https://www.youtube.com/watch?v=ADiqhdBF-WY)
 - [Model a toilet](https://www.youtube.com/watch?v=AQLNMRJiaIU)
 - [openvisualfx.com](https://openvisualfx.com/)
+- Some good ArchiPack Examples [ThilakanathSudios - Youtube](https://www.youtube.com/c/ThilakanathanStudios/videos)
+    - [Arch Video Tour Example - ThilakanathSudios](https://www.youtube.com/watch?v=p_Z0HPfE-rY)
+    - [ArchiPack Demo](https://www.youtube.com/watch?v=qnFb_4xVGW8)
